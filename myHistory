@@ -1,0 +1,37 @@
+    1  git help
+    2  git config --glabal user.name "Satya Venkata Krishna"
+    3  git config --global user.name "Satya Venkata Krishna"
+    4  git config --global user.email sachanta@my.okcu.edu
+    5  mkdir myFirst
+    6  ls
+    7  cd myFirst
+    8  pwd
+    9  ls
+   10  git init
+   11  ls
+   12  git add .
+   13  git status
+   14  git commit
+   15  git init
+   16  ls
+   17  git add .
+   18  git status
+   19  git commit
+   20  ls
+   21  git status
+   22  vim hello.c
+   23  git status
+   24  vim hello.c
+   25  git status
+   26  git add .
+   27  git commit
+   28  git log
+   29  history|tail
+   30  git log
+   31  git push
+   32  git remote add asathyakrishna https://github.com/asathyakrishna/myFirst.git
+   33* git remote add origin git remote add origin https://github.com/asathyakrishna/myFirst.git
+   34  git push asathyakrishna
+   35  git remote add origin https://github.com/asathyakrishna/myFirst.git
+   36  git push -u origin master
+   37  history > myHistory
